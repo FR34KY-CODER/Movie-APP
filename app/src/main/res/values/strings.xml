@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="tmdb_api_key">d88fb5392552ae7f3d70297f9326e8f5</string>
+</resources>
